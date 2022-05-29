@@ -1,11 +1,5 @@
 - 👋 Hi, I’m @TuckerWarlock
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
-
-<!---
-TuckerWarlock/TuckerWarlock is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+- 👀 I’m interested in Coding and Development
+- 🌱 I’m currently learning C#, WPF, and ASP.NET
+- 
 [![wakatime](https://wakatime.com/badge/user/7068e34f-769c-4412-8297-23bf47177f27.svg)](https://wakatime.com/@7068e34f-769c-4412-8297-23bf47177f27)
