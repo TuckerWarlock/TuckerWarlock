@@ -1,10 +1,9 @@
 ## 👋 Hi, I’m @TuckerWarlock
 
-- 📚 I’m currently expanding my knowledge of Kubernetes, Containers, and CNCF principles
-- 🧐 Focusing on Infrastructure as Code using AWS and Terraform
-- 🖥️ Additionally working on Python mastery as well as GitHub Actions for CI/CD pipelines
-- 🤔 Exploring different cloud providers like GCP and Azure
-- 🔬 I'm interested in 3d Printing, Arduino microcontrollers, RasberryPi, and Mechanical Keyboards
+- 📚 I’m currently expanding my knowledge of CNCF principles and practices, Kubernetes, and Container Orchestration.
+- 🧐 Working with Infrastructure as Code via Terraform and AWS and GitHub Actions for CI/CD pipelines.
+- 🖥️ Personal focus on advanced Python and MCP servers with Docker.
+- 🔬 I'm interested in AI/ML concepts, microcontrollers RasberryPi/Arduino), and 3d Printing.
 
 ##
 
