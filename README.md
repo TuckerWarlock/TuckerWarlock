@@ -2,8 +2,8 @@
 
 - 📚 I’m currently expanding my knowledge of CNCF principles and practices, Kubernetes, and Container Orchestration.
 - 🧐 Working with Infrastructure as Code via Terraform and AWS and GitHub Actions for CI/CD pipelines.
-- 🖥️ Personal focus on advanced Python and MCP servers with Docker.
-- 🔬 I'm interested in AI/ML concepts, microcontrollers RasberryPi/Arduino), and 3d Printing.
+- 🖥️ Personal focus on advanced Python, AI/ML concepts, and MCP servers via Docker.
+- 🔬 Microcontrollers like RasberryPi and Arduino, 3d Printing (Ender3 tinkering), and retro game emulation.
 
 ##
 
